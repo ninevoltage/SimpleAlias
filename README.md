@@ -10,6 +10,8 @@ SimpleAlias is a very simple plugin for Minecraft: Java Edition 1.20-1.21.x that
 
 /practice - Alias for /server prac.
 
+/boxpvp - Alias for /server boxpvp.
+
 # Configuration
 No configuration needed. Just place this plugin in your plugins folder.
 
