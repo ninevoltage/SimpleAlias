@@ -1,5 +1,5 @@
 # SimpleAlias
-SimpleAlias is a very simple plugin for Minecraft: Java Edition 1.20-1.21.x that provides alias for specific commands.
+SimpleAlias is a simple plugin for Minecraft: Java Edition 1.20-1.21.x that provides alias for specific commands.
 
 # Commands
 /lobby - Alias for /server lobby.
