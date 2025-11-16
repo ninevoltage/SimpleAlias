@@ -8,7 +8,7 @@ SimpleAlias is a simple plugin for Minecraft: Java Edition 1.20-1.21.x that prov
 
 /survival - Alias for /server survival.
 
-/practice - Alias for /server prac.
+/practice - Alias for /server practice.
 
 /boxpvp - Alias for /server boxpvp.
 
