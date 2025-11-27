@@ -12,6 +12,8 @@ SimpleAlias is a simple plugin for Minecraft: Java Edition 1.20-1.21.x that prov
 
 /boxpvp - Alias for /server boxpvp.
 
+/randomkits - Alias for /server rkits.
+
 # Configuration
 No configuration needed. Just place this plugin in your plugins folder.
 
